@@ -1,0 +1,125 @@
+img {
+   
+    height: 300px;
+    width: 600px;
+    object-fit: cover;
+}
+.contain {
+    width: 1280px;
+    /* margin-top: 100vh; */
+    margin: 0 auto;
+   text-align: center;
+    /* flex-wrap: wrap; */
+    /* position: absolute; */
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.card {
+    
+}
+
+.contain .card {
+    position: relative;
+    cursor: pointer;
+    background-color: #393a3f;
+    
+}
+
+.contain .card .face {
+    width: 600px;
+    height: 300px;
+    
+    
+    transition: 0.5s;
+}
+
+.contain .card .face.face1{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    
+    transform: translateY(150px);
+}
+
+.contain .card:hover .face.face1 {
+    background-color: white;
+    transform: translateY(0);
+}
+
+.contain .card .face.face1 .content {
+    
+    opacity: 1;
+    transition: 0.8s;
+}
+
+.contain .card:hover .face.face1 .content {
+    opacity: 1;
+}
+
+.contain .card .face.face1 .content img {
+    border-radius: 41px;
+
+box-shadow:  -25px -25px 50px #1e1f20,
+             25px 25px 50px #1e1f20;
+    max-width: 100%;
+}
+
+.contain .card:hover .face.face1 .content img {
+    border-radius: 41px;
+
+box-shadow:  -25px -25px 50px #1e1f20,
+             25px 0px 50px #1e1f20;
+    max-width: 100%;
+}
+
+.contain .card .face.face2 {
+    background-color: white;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 41px;
+
+box-shadow:  -25px -25px 50px #383a3b,
+             25px 25px 50px #383a3b;
+    transform: translateY(-150px);
+}
+
+.contain .card:hover .face.face2 {
+    transform: translateY(0);
+}
+
+.contain .card .face.face2 .content h3 {
+    margin: 0 0 0;
+    padding: 0;
+    text-align: center;
+}
+.contain .card .face.face2 .content p {
+    margin: 0;
+    padding: 0;
+}
+
+.contain .card .face.face2 .content a {
+    margin: 15px 0 0;
+    display: inline-block;
+    text-decoration: none;
+    color: #393a3f;
+    padding: 3px;
+    border: 1px solid #393a3f;
+}
+
+.contain .card .face.face2 .content a:hover {
+    background: #393a3f;
+    color: #fff;
+}
+
+.card {
+    border: 0px;
+}

@@ -1,0 +1,13 @@
+.wrap {
+    width: 60%;
+  height: 100%;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-family: 'Courier New', monospace;
+}
+
+.ml-auto {
+    float: right;
+}
