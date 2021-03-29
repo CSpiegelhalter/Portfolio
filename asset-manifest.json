@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Portfolio4/static/css/main.e5a88a09.chunk.css",
+    "main.js": "/Portfolio4/static/js/main.30216d20.chunk.js",
+    "main.js.map": "/Portfolio4/static/js/main.30216d20.chunk.js.map",
+    "runtime-main.js": "/Portfolio4/static/js/runtime-main.5db014e3.js",
+    "runtime-main.js.map": "/Portfolio4/static/js/runtime-main.5db014e3.js.map",
+    "static/css/2.a5f06b7f.chunk.css": "/Portfolio4/static/css/2.a5f06b7f.chunk.css",
+    "static/js/2.5580a174.chunk.js": "/Portfolio4/static/js/2.5580a174.chunk.js",
+    "static/js/2.5580a174.chunk.js.map": "/Portfolio4/static/js/2.5580a174.chunk.js.map",
+    "index.html": "/Portfolio4/index.html",
+    "precache-manifest.03351674e0faa97f746cb50c5b0244b3.js": "/Portfolio4/precache-manifest.03351674e0faa97f746cb50c5b0244b3.js",
+    "service-worker.js": "/Portfolio4/service-worker.js",
+    "static/css/2.a5f06b7f.chunk.css.map": "/Portfolio4/static/css/2.a5f06b7f.chunk.css.map",
+    "static/css/main.e5a88a09.chunk.css.map": "/Portfolio4/static/css/main.e5a88a09.chunk.css.map",
+    "static/js/2.5580a174.chunk.js.LICENSE.txt": "/Portfolio4/static/js/2.5580a174.chunk.js.LICENSE.txt",
+    "static/media/Bootstrap.png": "/Portfolio4/static/media/Bootstrap.ae0d1eb1.png",
+    "static/media/CSS.png": "/Portfolio4/static/media/CSS.60c2c3c6.png",
+    "static/media/JsIcon.png": "/Portfolio4/static/media/JsIcon.237d79f5.png",
+    "static/media/budget.png": "/Portfolio4/static/media/budget.29cd5115.png",
+    "static/media/donde.png": "/Portfolio4/static/media/donde.f5e36202.png",
+    "static/media/LandingPage.css": "/Portfolio4/static/media/dots.247e75b8.svg",
+    "static/media/App.css": "/Portfolio4/static/media/dots2.858a1818.svg",
+    "static/media/fitness.png": "/Portfolio4/static/media/fitness.931de62b.png",
+    "static/media/htmlIcon.png": "/Portfolio4/static/media/htmlIcon.3b360d91.png",
+    "static/media/mongo.png": "/Portfolio4/static/media/mongo.0d2c88f7.png",
+    "static/media/mySqlIcon.png": "/Portfolio4/static/media/mySqlIcon.c2c796d3.png",
+    "static/media/node.png": "/Portfolio4/static/media/node.683bb51f.png",
+    "static/media/notes.png": "/Portfolio4/static/media/notes.384c95a3.png",
+    "static/media/python.png": "/Portfolio4/static/media/python.87620910.png",
+    "static/media/reactIcon.png": "/Portfolio4/static/media/reactIcon.5b1d823d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5db014e3.js",
+    "static/css/2.a5f06b7f.chunk.css",
+    "static/js/2.5580a174.chunk.js",
+    "static/css/main.e5a88a09.chunk.css",
+    "static/js/main.30216d20.chunk.js"
+  ]
+}
