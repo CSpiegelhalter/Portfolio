@@ -23,7 +23,7 @@ function App() {
         <Row className="contact">
 
           <div className="box">
-            {/* <ContactMe /> */}
+            <ContactMe />
             </div>
    
         
