@@ -1,1 +1,609 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:#f1f2f3;z-index:1;position:relative" width="1920" height="1080" preserveAspectRatio="xMidYMid" display="block"><g><path id="a" d="M577.465 491.958c0 27.268-6.672 7.832-14.505 7.832s-14.504 19.436-14.504-7.832 6.672-7.832 14.504-7.832 14.505-19.437 14.505 7.832z" fill="none" stroke="none"/><circle r="4.795" fill="#fdd83c"><animateMotion begin="-5.337888413542305s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#a"/></animateMotion></circle><path id="b" d="M683.65 706.284c0 25.1-6.142 7.21-13.351 7.21s-13.35 17.89-13.35-7.21 6.14-7.209 13.35-7.209 13.35-17.89 13.35 7.21z" fill="none" stroke="none"/><circle r="4.574" fill="#34a9db"><animateMotion begin="-4.497201195138269s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#b"/></animateMotion></circle><path id="c" d="M449.86 720.482c0 25.832-6.32 7.42-13.74 7.42s-13.74 18.412-13.74-7.42 6.32-7.42 13.74-7.42 13.74-18.412 13.74 7.42z" fill="none" stroke="none"/><circle r="7.46" fill="#650cdf"><animateMotion begin="-4.58699019515656s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#c"/></animateMotion></circle><path id="d" d="M1270.497 800.218c0 23.869-5.84 6.856-12.696 6.856s-12.696 17.013-12.696-6.856 5.84-6.856 12.696-6.856 12.696-17.013 12.696 6.856z" fill="none" stroke="none"/><circle r="7.456" fill="#509545"><animateMotion begin="-9.176828364343903s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#d"/></animateMotion></circle><path id="e" d="M380.75 564.609c0 21.037-5.148 6.043-11.19 6.043s-11.19 14.994-11.19-6.043 5.147-6.043 11.19-6.043 11.19-14.994 11.19 6.043z" fill="none" stroke="none"/><circle r="6.776" fill="#ff708e"><animateMotion begin="-9.865973146344992s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#e"/></animateMotion></circle><path id="f" d="M1180.832 781.32c0 26.601-6.509 7.64-14.15 7.64s-14.15 18.961-14.15-7.64 6.51-7.641 14.15-7.641 14.15-18.961 14.15 7.64z" fill="none" stroke="none"/><circle r="4.733" fill="#509545"><animateMotion begin="-7.931591838542365s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#f"/></animateMotion></circle><path id="g" d="M140.091 174.59c0 30.486-7.46 8.757-16.216 8.757s-16.216 21.73-16.216-8.757 7.46-8.757 16.216-8.757 16.216-21.73 16.216 8.757z" fill="none" stroke="none"/><circle r="6.986" fill="#ff708e"><animateMotion begin="-9.496817705181057s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#g"/></animateMotion></circle><path id="h" d="M1831.962 472.781c0 35.643-8.72 10.238-18.959 10.238s-18.959 25.405-18.959-10.238 8.721-10.238 18.96-10.238 18.958-25.405 18.958 10.238z" fill="none" stroke="none"/><circle r="4.752" fill="#f16529"><animateMotion begin="-2.713379627856092s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#h"/></animateMotion></circle><path id="i" d="M285.717 998.337c0 31.185-7.63 8.957-16.588 8.957s-16.587 22.228-16.587-8.957 7.63-8.957 16.587-8.957 16.588-22.228 16.588 8.957z" fill="none" stroke="none"/><circle r="5.331" fill="#34a9db"><animateMotion begin="-1.2488654143525322s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#i"/></animateMotion></circle><path id="j" d="M1662.094 782.7c0 29.088-7.118 8.354-15.473 8.354s-15.472 20.734-15.472-8.355 7.117-8.355 15.472-8.355 15.473-20.733 15.473 8.355z" fill="none" stroke="none"/><circle r="7.854" fill="#ff708e"><animateMotion begin="-4.1558224951579685s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#j"/></animateMotion></circle><path id="k" d="M56.98 786.983c0 30.787-7.532 8.843-16.375 8.843s-16.376 21.944-16.376-8.843 7.533-8.843 16.376-8.843 16.376-21.944 16.376 8.843z" fill="none" stroke="none"/><circle r="7.216" fill="#fdd83c"><animateMotion begin="-3.6652626000120465s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#k"/></animateMotion></circle><path id="l" d="M334.56 719.482c0 33.92-8.299 9.743-18.042 9.743s-18.042 24.177-18.042-9.743 8.3-9.743 18.042-9.743 18.043-24.177 18.043 9.743z" fill="none" stroke="none"/><circle r="4.573" fill="#650cdf"><animateMotion begin="-5.655710303339451s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#l"/></animateMotion></circle><path id="m" d="M858.413 30.946c0 23.2-5.677 6.664-12.341 6.664s-12.341 16.537-12.341-6.664 5.677-6.664 12.34-6.664 12.342-16.537 12.342 6.664z" fill="none" stroke="none"/><circle r="4.863" fill="#34a9db"><animateMotion begin="-5.725957874766428s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#m"/></animateMotion></circle><path id="n" d="M113.058 635.856c0 28.086-6.872 8.067-14.939 8.067s-14.94 20.02-14.94-8.067 6.873-8.067 14.94-8.067 14.94-20.019 14.94 8.067z" fill="none" stroke="none"/><circle r="8.483" fill="#ff708e"><animateMotion begin="-4.894858566728429s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#n"/></animateMotion></circle><path id="o" d="M1140.743 558.047c0 33.645-8.232 9.664-17.896 9.664s-17.897 23.981-17.897-9.664 8.233-9.664 17.897-9.664 17.896-23.982 17.896 9.664z" fill="none" stroke="none"/><circle r="7.697" fill="#509545"><animateMotion begin="-2.578256083456351s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#o"/></animateMotion></circle><path id="p" d="M355.397 309.622c0 32.518-7.956 9.34-17.297 9.34s-17.297 23.178-17.297-9.34 7.957-9.34 17.297-9.34 17.297-23.178 17.297 9.34z" fill="none" stroke="none"/><circle r="6.104" fill="#650cdf"><animateMotion begin="-1.7617922536661672s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#p"/></animateMotion></circle><path id="q" d="M1462.04 312.738c0 35.035-8.573 10.064-18.636 10.064s-18.636 24.971-18.636-10.064 8.573-10.063 18.636-10.063 18.635-24.971 18.635 10.063z" fill="none" stroke="none"/><circle r="5.805" fill="#34a9db"><animateMotion begin="-9.843356934825385s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#q"/></animateMotion></circle><path id="r" d="M194.493 812.139c0 23.834-5.832 6.846-12.677 6.846s-12.678 16.988-12.678-6.846 5.832-6.846 12.678-6.846 12.677-16.988 12.677 6.846z" fill="none" stroke="none"/><circle r="7.91" fill="#34a9db"><animateMotion begin="-8.205230462173205s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#r"/></animateMotion></circle><path id="s" d="M372.656 1029.622c0 31.57-7.725 9.068-16.793 9.068s-16.793 22.503-16.793-9.068 7.725-9.068 16.793-9.068 16.793-22.502 16.793 9.068z" fill="none" stroke="none"/><circle r="5.061" fill="#fdd83c"><animateMotion begin="-8.55179526633997s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#s"/></animateMotion></circle><path id="t" d="M1902.791 417.896c0 29.025-7.101 8.337-15.438 8.337s-15.439 20.688-15.439-8.337 7.102-8.337 15.439-8.337 15.438-20.687 15.438 8.337z" fill="none" stroke="none"/><circle r="8.243" fill="#34a9db"><animateMotion begin="-5.414358900262128s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#t"/></animateMotion></circle><path id="u" d="M74.434 133.237c0 34.419-8.422 9.886-18.308 9.886s-18.308 24.533-18.308-9.886 8.422-9.886 18.308-9.886 18.308-24.533 18.308 9.886z" fill="none" stroke="none"/><circle r="4.591" fill="#34a9db"><animateMotion begin="-2.9512408521448403s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#u"/></animateMotion></circle><path id="v" d="M1699.902 474.52c0 21.59-5.283 6.2-11.484 6.2s-11.484 15.39-11.484-6.2 5.282-6.202 11.484-6.202 11.484-15.388 11.484 6.201z" fill="none" stroke="none"/><circle r="8.273" fill="#650cdf"><animateMotion begin="-2.673259766753098s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#v"/></animateMotion></circle><path id="w" d="M118.526 505.158c0 21.59-5.283 6.201-11.485 6.201s-11.484 15.39-11.484-6.201 5.283-6.202 11.484-6.202 11.485-15.39 11.485 6.202z" fill="none" stroke="none"/><circle r="5.702" fill="#fdd83c"><animateMotion begin="-10.459150484651763s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#w"/></animateMotion></circle><path id="x" d="M619.076 552.512c0 26.608-6.51 7.643-14.153 7.643s-14.153 18.965-14.153-7.643 6.51-7.642 14.153-7.642 14.153-18.966 14.153 7.642z" fill="none" stroke="none"/><circle r="6.535" fill="#ff708e"><animateMotion begin="-6.115034125007163s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#x"/></animateMotion></circle><path id="y" d="M829.59 429.303c0 27.752-6.79 7.972-14.761 7.972s-14.762 19.78-14.762-7.972 6.79-7.971 14.762-7.971 14.761-19.78 14.761 7.971z" fill="none" stroke="none"/><circle r="6.097" fill="#fdd83c"><animateMotion begin="-7.215118905641375s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#y"/></animateMotion></circle><path id="z" d="M378.472 942.573c0 22.087-5.404 6.344-11.748 6.344s-11.749 15.743-11.749-6.344 5.404-6.345 11.749-6.345 11.748-15.743 11.748 6.345z" fill="none" stroke="none"/><circle r="6.752" fill="#509545"><animateMotion begin="-8.746971430517041s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#z"/></animateMotion></circle><path id="A" d="M1285.598 294.602c0 23.653-5.787 6.794-12.581 6.794s-12.581 16.859-12.581-6.794 5.787-6.794 12.581-6.794 12.581-16.859 12.581 6.794z" fill="none" stroke="none"/><circle r="6.595" fill="#fdd83c"><animateMotion begin="-0.3507786175027707s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#A"/></animateMotion></circle><path id="B" d="M690.286 463.37c0 31.582-7.728 9.071-16.8 9.071s-16.799 22.511-16.799-9.071 7.728-9.072 16.8-9.072 16.799-22.51 16.799 9.072z" fill="none" stroke="none"/><circle r="4.548" fill="#fdd83c"><animateMotion begin="-0.3686579000648666s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#B"/></animateMotion></circle><path id="C" d="M586.018 431.324c0 32.211-7.881 9.253-17.133 9.253s-17.134 22.958-17.134-9.253 7.882-9.252 17.134-9.252 17.133-22.959 17.133 9.252z" fill="none" stroke="none"/><circle r="6.107" fill="#f16529"><animateMotion begin="-7.1700920451879515s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#C"/></animateMotion></circle><path id="D" d="M1528.445 723.051c0 31.049-7.597 8.919-16.515 8.919s-16.516 22.13-16.516-8.919 7.597-8.918 16.516-8.918 16.515-22.13 16.515 8.918z" fill="none" stroke="none"/><circle r="7.421" fill="#fdd83c"><animateMotion begin="-5.754989752193539s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#D"/></animateMotion></circle><path id="E" d="M602.891 1067.852c0 22.644-5.54 6.504-12.044 6.504s-12.045 16.14-12.045-6.504 5.54-6.504 12.045-6.504 12.044-16.14 12.044 6.504z" fill="none" stroke="none"/><circle r="8.818" fill="#34a9db"><animateMotion begin="-4.111491006828051s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#E"/></animateMotion></circle><path id="F" d="M1468.98 797.107c0 19.51-4.774 5.604-10.378 5.604s-10.377 13.905-10.377-5.604 4.774-5.603 10.377-5.603 10.377-13.906 10.377 5.603z" fill="none" stroke="none"/><circle r="8.488" fill="#509545"><animateMotion begin="-9.203114855721973s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#F"/></animateMotion></circle><path id="G" d="M1102.191 823.086c0 28.616-7.002 8.22-15.22 8.22s-15.222 20.396-15.222-8.22 7.002-8.219 15.221-8.219 15.221-20.396 15.221 8.22z" fill="none" stroke="none"/><circle r="8.903" fill="#509545"><animateMotion begin="-7.105447294182118s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#G"/></animateMotion></circle><path id="H" d="M549.374 416.11c0 25.158-6.155 7.226-13.381 7.226s-13.382 17.932-13.382-7.226 6.156-7.226 13.382-7.226 13.381-17.93 13.381 7.226z" fill="none" stroke="none"/><circle r="6.705" fill="#fdd83c"><animateMotion begin="-4.637642182645426s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#H"/></animateMotion></circle><path id="I" d="M576.856 683.554c0 33.88-8.29 9.731-18.021 9.731s-18.021 24.149-18.021-9.731 8.29-9.732 18.02-9.732 18.022-24.148 18.022 9.732z" fill="none" stroke="none"/><circle r="8.386" fill="#f16529"><animateMotion begin="-2.8595936907557573s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#I"/></animateMotion></circle><path id="J" d="M1837.633 963.667c0 20.65-5.053 5.931-10.985 5.931s-10.984 14.72-10.984-5.931 5.053-5.932 10.984-5.932 10.985-14.719 10.985 5.932z" fill="none" stroke="none"/><circle r="7.597" fill="#650cdf"><animateMotion begin="-5.008194083432713s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#J"/></animateMotion></circle><path id="K" d="M486.99 645.24c0 21.453-5.25 6.162-11.412 6.162s-11.412 15.291-11.412-6.163 5.25-6.162 11.412-6.162 11.412-15.292 11.412 6.162z" fill="none" stroke="none"/><circle r="5.595" fill="#509545"><animateMotion begin="-8.587273546884365s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#K"/></animateMotion></circle><path id="L" d="M446.928 943.956c0 31.903-7.806 9.163-16.97 9.163s-16.97 22.74-16.97-9.163 7.807-9.164 16.97-9.164 16.97-22.74 16.97 9.164z" fill="none" stroke="none"/><circle r="5.321" fill="#f16529"><animateMotion begin="-3.696646462382287s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#L"/></animateMotion></circle><path id="M" d="M1303.716 200.446c0 35.27-8.63 10.13-18.76 10.13s-18.76 25.14-18.76-10.13 8.629-10.13 18.76-10.13 18.76-25.14 18.76 10.13z" fill="none" stroke="none"/><circle r="4.703" fill="#509545"><animateMotion begin="-10.265332403737244s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#M"/></animateMotion></circle><path id="N" d="M978.486 648.892c0 32.76-8.016 9.41-17.426 9.41s-17.425 23.35-17.425-9.41 8.016-9.41 17.425-9.41 17.426-23.35 17.426 9.41z" fill="none" stroke="none"/><circle r="4.751" fill="#fdd83c"><animateMotion begin="-1.6972283667700765s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#N"/></animateMotion></circle><path id="O" d="M1279.122 740.61c0 35.683-8.731 10.25-18.98 10.25s-18.98 25.433-18.98-10.25 8.73-10.249 18.98-10.249 18.98-25.433 18.98 10.25z" fill="none" stroke="none"/><circle r="8.204" fill="#fdd83c"><animateMotion begin="-8.54395954249036s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#O"/></animateMotion></circle><path id="P" d="M186.33 683.78c0 26.902-6.583 7.728-14.31 7.728s-14.309 19.174-14.309-7.727 6.583-7.727 14.31-7.727 14.308-19.174 14.308 7.727z" fill="none" stroke="none"/><circle r="8.217" fill="#fdd83c"><animateMotion begin="-1.6194909868214071s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#P"/></animateMotion></circle><path id="Q" d="M1239.058 801.985c0 27.825-6.808 7.992-14.8 7.992s-14.8 19.833-14.8-7.992 6.807-7.992 14.8-7.992 14.8-19.833 14.8 7.992z" fill="none" stroke="none"/><circle r="8.664" fill="#34a9db"><animateMotion begin="-0.10833781025510753s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#Q"/></animateMotion></circle><path id="R" d="M752.682 34.418c0 22.978-5.622 6.6-12.222 6.6s-12.222 16.378-12.222-6.6 5.622-6.6 12.222-6.6 12.222-16.377 12.222 6.6z" fill="none" stroke="none"/><circle r="5.541" fill="#f16529"><animateMotion begin="-10.15125824730465s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#R"/></animateMotion></circle><path id="S" d="M666.081 184.56c0 21.246-5.198 6.102-11.301 6.102s-11.302 15.144-11.302-6.103 5.199-6.103 11.302-6.103 11.301-15.144 11.301 6.103z" fill="none" stroke="none"/><circle r="4.579" fill="#fdd83c"><animateMotion begin="-3.742225273665549s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#S"/></animateMotion></circle><path id="T" d="M1057.478 833.564c0 31.897-7.804 9.162-16.966 9.162s-16.967 22.735-16.967-9.162 7.805-9.162 16.967-9.162 16.966-22.735 16.966 9.162z" fill="none" stroke="none"/><circle r="8.671" fill="#509545"><animateMotion begin="-0.19976714264652393s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#T"/></animateMotion></circle><path id="U" d="M1902.759 247.733c0 24.956-6.107 7.169-13.275 7.169s-13.274 17.787-13.274-7.169 6.106-7.168 13.274-7.168 13.275-17.788 13.275 7.168z" fill="none" stroke="none"/><circle r="6.405" fill="#650cdf"><animateMotion begin="-6.377927484983383s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#U"/></animateMotion></circle><path id="V" d="M1542.947 617.53c0 22.708-5.556 6.522-12.079 6.522s-12.079 16.186-12.079-6.522 5.556-6.523 12.08-6.523 12.078-16.186 12.078 6.523z" fill="none" stroke="none"/><circle r="8.366" fill="#34a9db"><animateMotion begin="-2.190929088190059s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#V"/></animateMotion></circle><path id="W" d="M1815.778 201.26c0 21.397-5.236 6.146-11.381 6.146s-11.381 15.25-11.381-6.145 5.235-6.146 11.38-6.146 11.382-15.25 11.382 6.146z" fill="none" stroke="none"/><circle r="8.137" fill="#f16529"><animateMotion begin="-5.44958093230043s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#W"/></animateMotion></circle><path id="X" d="M818.756 648.221c0 34.434-8.425 9.89-18.315 9.89s-18.316 24.544-18.316-9.89 8.425-9.89 18.316-9.89 18.315-24.543 18.315 9.89z" fill="none" stroke="none"/><circle r="8.152" fill="#34a9db"><animateMotion begin="-5.453879110235061s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#X"/></animateMotion></circle><path id="Y" d="M506.072 261.956c0 31.612-7.735 9.08-16.815 9.08s-16.815 22.532-16.815-9.08 7.735-9.08 16.815-9.08 16.815-22.531 16.815 9.08z" fill="none" stroke="none"/><circle r="4.835" fill="#ff708e"><animateMotion begin="-2.4856583922049555s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#Y"/></animateMotion></circle><path id="Z" d="M855.67 11.393c0 35.189-8.61 10.108-18.717 10.108s-18.717 25.08-18.717-10.108 8.61-10.107 18.717-10.107 18.718-25.082 18.718 10.107z" fill="none" stroke="none"/><circle r="5.565" fill="#ff708e"><animateMotion begin="-10.297131115187394s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#Z"/></animateMotion></circle><path id="aa" d="M1561.631 124.774c0 28.468-6.965 8.177-15.142 8.177s-15.142 20.29-15.142-8.177 6.965-8.177 15.142-8.177 15.142-20.29 15.142 8.177z" fill="none" stroke="none"/><circle r="8.334" fill="#509545"><animateMotion begin="-9.199659616400394s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#aa"/></animateMotion></circle><path id="ab" d="M994.989 97.443c0 21.823-5.34 6.268-11.608 6.268s-11.608 15.555-11.608-6.268 5.34-6.269 11.608-6.269 11.608-15.555 11.608 6.269z" fill="none" stroke="none"/><circle r="8.913" fill="#f16529"><animateMotion begin="-4.707894278699586s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#ab"/></animateMotion></circle><path id="ac" d="M1549.145 744.137c0 26.593-6.507 7.639-14.145 7.639s-14.145 18.954-14.145-7.639 6.506-7.638 14.145-7.638 14.145-18.955 14.145 7.638z" fill="none" stroke="none"/><circle r="4.889" fill="#509545"><animateMotion begin="-10.066803379257776s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#ac"/></animateMotion></circle><path id="ad" d="M1691.633 207.251c0 29.806-7.293 8.562-15.854 8.562s-15.854 21.244-15.854-8.562 7.293-8.56 15.854-8.56 15.854-21.245 15.854 8.56z" fill="none" stroke="none"/><circle r="7.859" fill="#34a9db"><animateMotion begin="-8.658074318349438s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#ad"/></animateMotion></circle><path id="ae" d="M1265.756 672.226c0 22.734-5.563 6.53-12.093 6.53s-12.092 16.204-12.092-6.53 5.562-6.53 12.092-6.53 12.093-16.204 12.093 6.53z" fill="none" stroke="none"/><circle r="8.519" fill="#f16529"><animateMotion begin="-10.11152660900457s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#ae"/></animateMotion></circle><path id="af" d="M1853.21 132.5c0 21.596-5.285 6.203-11.488 6.203s-11.487 15.393-11.487-6.203 5.284-6.203 11.487-6.203 11.487-15.393 11.487 6.203z" fill="none" stroke="none"/><circle r="8.911" fill="#ff708e"><animateMotion begin="-0.4219174635991679s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#af"/></animateMotion></circle><path id="ag" d="M1726.383 171.085c0 31.54-7.717 9.059-16.776 9.059s-16.777 22.48-16.777-9.06 7.717-9.059 16.777-9.059 16.776-22.48 16.776 9.06z" fill="none" stroke="none"/><circle r="6.447" fill="#509545"><animateMotion begin="-0.032772390584394316s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#ag"/></animateMotion></circle><path id="ah" d="M1288.27 145.544c0 31.624-7.738 9.084-16.822 9.084s-16.821 22.54-16.821-9.084 7.738-9.083 16.821-9.083 16.821-22.54 16.821 9.083z" fill="none" stroke="none"/><circle r="8.16" fill="#650cdf"><animateMotion begin="-3.5961873600203815s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#ah"/></animateMotion></circle><path id="ai" d="M1775.042 711.493c0 32.159-7.869 9.237-17.106 9.237s-17.106 22.922-17.106-9.237 7.869-9.237 17.106-9.237 17.106-22.922 17.106 9.237z" fill="none" stroke="none"/><circle r="7.011" fill="#34a9db"><animateMotion begin="-9.353265689496757s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#ai"/></animateMotion></circle><path id="aj" d="M325.45 773.348c0 23.527-5.757 6.758-12.515 6.758s-12.514 16.769-12.514-6.758 5.757-6.757 12.514-6.757 12.514-16.77 12.514 6.757z" fill="none" stroke="none"/><circle r="6.022" fill="#ff708e"><animateMotion begin="-3.1146165729503648s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#aj"/></animateMotion></circle><path id="ak" d="M296.665 1058.98c0 23.861-5.838 6.854-12.692 6.854s-12.692 17.007-12.692-6.854 5.839-6.854 12.692-6.854 12.692-17.007 12.692 6.854z" fill="none" stroke="none"/><circle r="7.236" fill="#fdd83c"><animateMotion begin="-0.05695785829381807s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#ak"/></animateMotion></circle><path id="al" d="M221.086 871.538c0 19.6-4.795 5.63-10.425 5.63s-10.426 13.97-10.426-5.63 4.796-5.63 10.426-5.63 10.425-13.97 10.425 5.63z" fill="none" stroke="none"/><circle r="8.891" fill="#f16529"><animateMotion begin="-3.4206783104464344s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#al"/></animateMotion></circle><path id="am" d="M255.188 1009.332c0 29.766-7.283 8.55-15.833 8.55s-15.833 21.216-15.833-8.55 7.283-8.55 15.833-8.55 15.833-21.217 15.833 8.55z" fill="none" stroke="none"/><circle r="5.125" fill="#650cdf"><animateMotion begin="-3.8868545726169335s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#am"/></animateMotion></circle><path id="an" d="M126.815 849.563c0 19.652-4.809 5.645-10.454 5.645s-10.453 14.007-10.453-5.645 4.808-5.645 10.453-5.645 10.454-14.008 10.454 5.645z" fill="none" stroke="none"/><circle r="6.533" fill="#fdd83c"><animateMotion begin="-1.8680946215939291s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#an"/></animateMotion></circle><path id="ao" d="M969.024 908.994c0 30.56-7.478 8.778-16.256 8.778s-16.255 21.783-16.255-8.778 7.477-8.777 16.255-8.777 16.256-21.783 16.256 8.777z" fill="none" stroke="none"/><circle r="8.515" fill="#509545"><animateMotion begin="-7.313429987278197s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#ao"/></animateMotion></circle><path id="ap" d="M1717.832 165.818c0 29.509-7.22 8.476-15.696 8.476s-15.696 21.033-15.696-8.476 7.22-8.475 15.696-8.475 15.696-21.033 15.696 8.475z" fill="none" stroke="none"/><circle r="8.557" fill="#509545"><animateMotion begin="-4.358822457981781s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#ap"/></animateMotion></circle><path id="aq" d="M78.405 72.13c0 25.586-6.26 7.35-13.61 7.35s-13.61 18.236-13.61-7.35 6.261-7.35 13.61-7.35 13.61-18.236 13.61 7.35z" fill="none" stroke="none"/><circle r="7.206" fill="#650cdf"><animateMotion begin="-5.458002804826011s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#aq"/></animateMotion></circle><path id="ar" d="M1733.664 550.46c0 29.32-7.174 8.422-15.596 8.422s-15.595 20.898-15.595-8.421 7.174-8.422 15.595-8.422 15.596-20.898 15.596 8.422z" fill="none" stroke="none"/><circle r="7.934" fill="#fdd83c"><animateMotion begin="-4.581672906996708s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#ar"/></animateMotion></circle><path id="as" d="M1151.113 994.79c0 26.526-6.49 7.619-14.11 7.619s-14.11 18.907-14.11-7.62 6.491-7.619 14.11-7.619 14.11-18.907 14.11 7.62z" fill="none" stroke="none"/><circle r="5.692" fill="#650cdf"><animateMotion begin="-1.0161094990284625s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#as"/></animateMotion></circle><path id="at" d="M1191.895 634.624c0 19.867-4.86 5.706-10.567 5.706s-10.567 14.16-10.567-5.706 4.86-5.707 10.567-5.707 10.567-14.16 10.567 5.707z" fill="none" stroke="none"/><circle r="5.227" fill="#650cdf"><animateMotion begin="-8.559297750320027s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#at"/></animateMotion></circle><path id="au" d="M1839.513 554.678c0 28.695-7.02 8.242-15.263 8.242s-15.263 20.453-15.263-8.242 7.02-8.242 15.263-8.242 15.263-20.453 15.263 8.242z" fill="none" stroke="none"/><circle r="8.556" fill="#fdd83c"><animateMotion begin="-8.042644429924422s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#au"/></animateMotion></circle><path id="av" d="M398.91 425.528c0 22.344-5.468 6.418-11.886 6.418s-11.885 15.926-11.885-6.418 5.467-6.418 11.885-6.418 11.885-15.926 11.885 6.418z" fill="none" stroke="none"/><circle r="5.878" fill="#34a9db"><animateMotion begin="-4.357016817930108s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#av"/></animateMotion></circle><path id="aw" d="M1226.797 474.346c0 23.088-5.649 6.632-12.28 6.632s-12.281 16.456-12.281-6.632 5.649-6.632 12.28-6.632 12.281-16.456 12.281 6.632z" fill="none" stroke="none"/><circle r="7.138" fill="#509545"><animateMotion begin="-8.553142215389238s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#aw"/></animateMotion></circle><path id="ax" d="M562.33 878.73c0 20.534-5.024 5.899-10.921 5.899s-10.922 14.635-10.922-5.898 5.024-5.898 10.922-5.898 10.922-14.635 10.922 5.898z" fill="none" stroke="none"/><circle r="6.513" fill="#fdd83c"><animateMotion begin="-6.408009678210985s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#ax"/></animateMotion></circle><path id="ay" d="M458.397 218.667c0 27.302-6.68 7.842-14.523 7.842s-14.523 19.46-14.523-7.842 6.68-7.843 14.523-7.843 14.523-19.46 14.523 7.843z" fill="none" stroke="none"/><circle r="8.289" fill="#f16529"><animateMotion begin="-5.9141268825639415s" dur="10.53s" repeatCount="indefinite"><mpath xlink:href="#ay"/></animateMotion></circle></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#FDD83C;}
+	.st2{fill:#34A9DB;}
+	.st3{fill:#650CDF;}
+	.st4{fill:#509545;}
+	.st5{fill:#FF708E;}
+	.st6{fill:#F16529;}
+</style>
+<g>
+	<path id="a" class="st0" d="M825,945.3c0,27.3-6.7,7.8-14.5,7.8s-14.5,19.4-14.5-7.8s6.7-7.8,14.5-7.8S825,918,825,945.3z"/>
+	<circle class="st1" cx="0" cy="0" r="4.8">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-5.337888413542305s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="b" class="st0" d="M1601.8,1013.2c0,25.1-6.1,7.2-13.4,7.2s-13.3,17.9-13.3-7.2s6.1-7.2,13.3-7.2
+		S1601.8,988.1,1601.8,1013.2L1601.8,1013.2z"/>
+	<circle class="st2" cx="0" cy="0" r="4.6">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-4.497201195138269s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="c" class="st0" d="M1481.9,433.3c0,25.8-6.3,7.4-13.7,7.4c-7.4,0-13.7,18.4-13.7-7.4s6.3-7.4,13.7-7.4
+		C1475.6,425.9,1481.9,407.5,1481.9,433.3z"/>
+	<circle class="st3" cx="0" cy="0" r="7.5">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-4.58699019515656s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="d" class="st0" d="M1270.5,800.2c0,23.9-5.8,6.9-12.7,6.9s-12.7,17-12.7-6.9s5.8-6.9,12.7-6.9S1270.5,776.3,1270.5,800.2z
+		"/>
+	<circle class="st4" cx="0" cy="0" r="7.5">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-9.176828364343903s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="e" class="st0" d="M1412.8,277.5c0,21-5.1,6-11.2,6s-11.2,15-11.2-6s5.1-6,11.2-6C1407.6,271.4,1412.8,256.4,1412.8,277.5
+		z"/>
+	<circle class="st5" cx="0" cy="0" r="6.8">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-9.865973146344992s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="f" class="st0" d="M1180.8,781.3c0,26.6-6.5,7.6-14.2,7.6s-14.2,19-14.2-7.6s6.5-7.6,14.2-7.6S1180.8,754.7,1180.8,781.3
+		L1180.8,781.3z"/>
+	<circle class="st4" cx="0" cy="0" r="4.7">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-7.931591838542365s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="g" class="st0" d="M140.1,174.6c0,30.5-7.5,8.8-16.2,8.8s-16.2,21.7-16.2-8.8s7.5-8.8,16.2-8.8S140.1,144.1,140.1,174.6z"
+		/>
+	<circle class="st5" cx="0" cy="0" r="7">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-9.496817705181057s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="h" class="st0" d="M1832,472.8c0,35.6-8.7,10.2-19,10.2s-19,25.4-19-10.2s8.7-10.2,19-10.2S1832,437.1,1832,472.8z"/>
+	<circle class="st6" cx="0" cy="0" r="4.8">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-2.713379627856092s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="i" class="st0" d="M285.7,998.3c0,31.2-7.6,9-16.6,9s-16.6,22.2-16.6-9s7.6-9,16.6-9S285.7,967.2,285.7,998.3z"/>
+	<circle class="st2" cx="0" cy="0" r="5.3">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-1.2488654143525322s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="j" class="st0" d="M1662.1,782.7c0,29.1-7.1,8.4-15.5,8.4s-15.5,20.7-15.5-8.4s7.1-8.4,15.5-8.4
+		S1662.1,753.6,1662.1,782.7L1662.1,782.7z"/>
+	<circle class="st5" cx="0" cy="0" r="7.9">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-4.1558224951579685s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="k" class="st0" d="M57,787c0,30.8-7.5,8.8-16.4,8.8s-16.4,21.9-16.4-8.8s7.5-8.8,16.4-8.8S57,756.2,57,787L57,787z"/>
+	<circle class="st1" cx="0" cy="0" r="7.2">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-3.6652626000120465s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="l" class="st0" d="M1366.6,432.3c0,33.9-8.3,9.7-18,9.7c-9.7,0-18,24.2-18-9.7s8.3-9.7,18-9.7
+		C1358.3,422.6,1366.6,398.4,1366.6,432.3L1366.6,432.3z"/>
+	<circle class="st3" cx="0" cy="0" r="4.6">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-5.655710303339451s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="m" class="st0" d="M858.4,30.9c0,23.2-5.7,6.7-12.3,6.7s-12.3,16.5-12.3-6.7s5.7-6.7,12.3-6.7S858.4,7.7,858.4,30.9z"/>
+	<circle class="st2" cx="0" cy="0" r="4.9">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-5.725957874766428s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="n" class="st0" d="M113.1,635.9c0,28.1-6.9,8.1-14.9,8.1s-14.9,20-14.9-8.1s6.9-8.1,14.9-8.1S113.1,607.8,113.1,635.9
+		L113.1,635.9z"/>
+	<circle class="st5" cx="0" cy="0" r="8.5">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-4.894858566728429s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="o" class="st0" d="M337.9,40.6c0,33.6-8.2,9.7-17.9,9.7s-17.9,24-17.9-9.7s8.2-9.7,17.9-9.7S337.9,6.9,337.9,40.6z"/>
+	<circle class="st4" cx="0" cy="0" r="7.7">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-2.578256083456351s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="p" class="st0" d="M141.2,453.8c0,32.5-8,9.3-17.3,9.3s-17.3,23.2-17.3-9.3s8-9.3,17.3-9.3S141.2,421.2,141.2,453.8z"/>
+	<circle class="st3" cx="0" cy="0" r="6.1">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-1.7617922536661672s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="q" class="st0" d="M1462,312.7c0,35-8.6,10.1-18.6,10.1s-18.6,25-18.6-10.1s8.6-10.1,18.6-10.1S1462,277.7,1462,312.7
+		L1462,312.7z"/>
+	<circle class="st2" cx="0" cy="0" r="5.8">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-9.843356934825385s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="r" class="st0" d="M194.5,812.1c0,23.8-5.8,6.8-12.7,6.8s-12.7,17-12.7-6.8s5.8-6.8,12.7-6.8S194.5,788.3,194.5,812.1z"/>
+	<circle class="st2" cx="0" cy="0" r="7.9">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-8.205230462173205s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="s" class="st0" d="M372.7,1029.6c0,31.6-7.7,9.1-16.8,9.1s-16.8,22.5-16.8-9.1s7.7-9.1,16.8-9.1S372.7,998.1,372.7,1029.6
+		z"/>
+	<circle class="st1" cx="0" cy="0" r="5.1">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-8.55179526633997s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="t" class="st0" d="M1902.8,417.9c0,29-7.1,8.3-15.4,8.3s-15.4,20.7-15.4-8.3s7.1-8.3,15.4-8.3S1902.8,388.9,1902.8,417.9z
+		"/>
+	<circle class="st2" cx="0" cy="0" r="8.2">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-5.414358900262128s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="u" class="st0" d="M74.4,133.2c0,34.4-8.4,9.9-18.3,9.9s-18.3,24.5-18.3-9.9s8.4-9.9,18.3-9.9S74.4,98.8,74.4,133.2z"/>
+	<circle class="st2" cx="0" cy="0" r="4.6">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-2.9512408521448403s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="v" class="st0" d="M1699.9,474.5c0,21.6-5.3,6.2-11.5,6.2s-11.5,15.4-11.5-6.2s5.3-6.2,11.5-6.2
+		S1699.9,452.9,1699.9,474.5L1699.9,474.5z"/>
+	<circle class="st3" cx="0" cy="0" r="8.3">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-2.673259766753098s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="w" class="st0" d="M118.5,505.2c0,21.6-5.3,6.2-11.5,6.2s-11.5,15.4-11.5-6.2s5.3-6.2,11.5-6.2S118.5,483.6,118.5,505.2z"
+		/>
+	<circle class="st1" cx="0" cy="0" r="5.7">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-10.459150484651763s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="x" class="st0" d="M866.6,1005.9c0,26.6-6.5,7.6-14.2,7.6s-14.2,19-14.2-7.6s6.5-7.6,14.2-7.6S866.6,979.3,866.6,1005.9z"
+		/>
+	<circle class="st5" cx="0" cy="0" r="6.5">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-6.115034125007163s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="y" class="st0" d="M1077.1,882.7c0,27.8-6.8,8-14.8,8c-8,0-14.8,19.8-14.8-8c0-27.8,6.8-8,14.8-8
+		C1070.3,874.7,1077.1,854.9,1077.1,882.7L1077.1,882.7z"/>
+	<circle class="st1" cx="0" cy="0" r="6.1">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-7.215118905641375s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="z" class="st0" d="M378.5,942.6c0,22.1-5.4,6.3-11.7,6.3s-11.7,15.7-11.7-6.3s5.4-6.3,11.7-6.3S378.5,920.5,378.5,942.6z"
+		/>
+	<circle class="st4" cx="0" cy="0" r="6.8">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-8.746971430517041s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="A" class="st0" d="M1285.6,294.6c0,23.7-5.8,6.8-12.6,6.8s-12.6,16.9-12.6-6.8s5.8-6.8,12.6-6.8
+		S1285.6,270.9,1285.6,294.6z"/>
+	<circle class="st1" cx="0" cy="0" r="6.6">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-0.3507786175027707s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="B" class="st0" d="M937.8,916.7c0,31.6-7.7,9.1-16.8,9.1s-16.8,22.5-16.8-9.1c0-31.6,7.7-9.1,16.8-9.1
+		S937.8,885.1,937.8,916.7z"/>
+	<circle class="st1" cx="0" cy="0" r="4.5">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-0.3686579000648666s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="C" class="st0" d="M1373.7,936.5c0,32.2-7.9,9.3-17.1,9.3c-9.3,0-17.1,23-17.1-9.3s7.9-9.3,17.1-9.3
+		S1373.7,904.3,1373.7,936.5z"/>
+	<circle class="st6" cx="0" cy="0" r="6.1">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-7.1700920451879515s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="D" class="st0" d="M1528.4,723.1c0,31-7.6,8.9-16.5,8.9s-16.5,22.1-16.5-8.9s7.6-8.9,16.5-8.9S1528.4,692,1528.4,723.1z"
+		/>
+	<circle class="st1" cx="0" cy="0" r="7.4">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-5.754989752193539s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="E" class="st0" d="M602.9,1067.9c0,22.6-5.5,6.5-12,6.5s-12,16.1-12-6.5s5.5-6.5,12-6.5S602.9,1045.2,602.9,1067.9z"/>
+	<circle class="st2" cx="0" cy="0" r="8.8">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-4.111491006828051s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="F" class="st0" d="M1469,797.1c0,19.5-4.8,5.6-10.4,5.6s-10.4,13.9-10.4-5.6s4.8-5.6,10.4-5.6S1469,777.6,1469,797.1
+		L1469,797.1z"/>
+	<circle class="st4" cx="0" cy="0" r="8.5">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-9.203114855721973s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="G" class="st0" d="M1102.2,823.1c0,28.6-7,8.2-15.2,8.2s-15.2,20.4-15.2-8.2s7-8.2,15.2-8.2S1102.2,794.5,1102.2,823.1
+		L1102.2,823.1z"/>
+	<circle class="st4" cx="0" cy="0" r="8.9">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-7.105447294182118s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="H" class="st0" d="M1337.1,921.3c0,25.2-6.2,7.2-13.4,7.2s-13.4,17.9-13.4-7.2s6.2-7.2,13.4-7.2
+		C1330.9,914.1,1337.1,896.1,1337.1,921.3z"/>
+	<circle class="st1" cx="0" cy="0" r="6.7">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-4.637642182645426s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="I" class="st0" d="M1495,990.5c0,33.9-8.3,9.7-18,9.7c-9.7,0-18,24.1-18-9.7c0-33.9,8.3-9.7,18-9.7
+		C1486.7,980.8,1495,956.6,1495,990.5z"/>
+	<circle class="st6" cx="0" cy="0" r="8.4">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-2.8595936907557573s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="J" class="st0" d="M1837.6,963.7c0,20.7-5.1,5.9-11,5.9s-11,14.7-11-5.9s5.1-5.9,11-5.9S1837.6,943,1837.6,963.7z"/>
+	<circle class="st3" cx="0" cy="0" r="7.6">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-5.008194083432713s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="K" class="st0" d="M1519,358.1c0,21.5-5.3,6.2-11.4,6.2s-11.4,15.3-11.4-6.2s5.3-6.2,11.4-6.2S1519,336.6,1519,358.1
+		L1519,358.1z"/>
+	<circle class="st4" cx="0" cy="0" r="5.6">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-8.587273546884365s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="L" class="st0" d="M446.9,944c0,31.9-7.8,9.2-17,9.2s-17,22.7-17-9.2s7.8-9.2,17-9.2S446.9,912.1,446.9,944z"/>
+	<circle class="st6" cx="0" cy="0" r="5.3">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-3.696646462382287s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="M" class="st0" d="M1303.7,200.4c0,35.3-8.6,10.1-18.8,10.1s-18.8,25.1-18.8-10.1s8.6-10.1,18.8-10.1
+		S1303.7,165.2,1303.7,200.4z"/>
+	<circle class="st4" cx="0" cy="0" r="4.7">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-10.265332403737244s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="N" class="st0" d="M175.7,131.4c0,32.8-8,9.4-17.4,9.4s-17.4,23.3-17.4-9.4s8-9.4,17.4-9.4S175.7,98.7,175.7,131.4z"/>
+	<circle class="st1" cx="0" cy="0" r="4.8">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-1.6972283667700765s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="O" class="st0" d="M1279.1,740.6c0,35.7-8.7,10.3-19,10.3s-19,25.4-19-10.3s8.7-10.2,19-10.2S1279.1,704.9,1279.1,740.6
+		L1279.1,740.6z"/>
+	<circle class="st1" cx="0" cy="0" r="8.2">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-8.54395954249036s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="P" class="st0" d="M186.3,683.8c0,26.9-6.6,7.7-14.3,7.7s-14.3,19.2-14.3-7.7s6.6-7.7,14.3-7.7S186.3,656.9,186.3,683.8
+		L186.3,683.8z"/>
+	<circle class="st1" cx="0" cy="0" r="8.2">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-1.6194909868214071s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="Q" class="st0" d="M1239.1,802c0,27.8-6.8,8-14.8,8s-14.8,19.8-14.8-8s6.8-8,14.8-8S1239.1,774.2,1239.1,802z"/>
+	<circle class="st2" cx="0" cy="0" r="8.7">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-0.10833781025510753s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="R" class="st0" d="M752.7,34.4c0,23-5.6,6.6-12.2,6.6s-12.2,16.4-12.2-6.6s5.6-6.6,12.2-6.6S752.7,11.4,752.7,34.4z"/>
+	<circle class="st6" cx="0" cy="0" r="5.5">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-10.15125824730465s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="S" class="st0" d="M666.1,184.6c0,21.2-5.2,6.1-11.3,6.1s-11.3,15.1-11.3-6.1s5.2-6.1,11.3-6.1S666.1,163.3,666.1,184.6
+		L666.1,184.6z"/>
+	<circle class="st1" cx="0" cy="0" r="4.6">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-3.742225273665549s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="T" class="st0" d="M1057.5,833.6c0,31.9-7.8,9.2-17,9.2s-17,22.7-17-9.2s7.8-9.2,17-9.2S1057.5,801.7,1057.5,833.6z"/>
+	<circle class="st4" cx="0" cy="0" r="8.7">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-0.19976714264652393s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="U" class="st0" d="M1902.8,247.7c0,25-6.1,7.2-13.3,7.2s-13.3,17.8-13.3-7.2s6.1-7.2,13.3-7.2S1902.8,222.8,1902.8,247.7z
+		"/>
+	<circle class="st3" cx="0" cy="0" r="6.4">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-6.377927484983383s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="V" class="st0" d="M1542.9,617.5c0,22.7-5.6,6.5-12.1,6.5s-12.1,16.2-12.1-6.5s5.6-6.5,12.1-6.5
+		S1542.9,594.8,1542.9,617.5z"/>
+	<circle class="st2" cx="0" cy="0" r="8.4">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-2.190929088190059s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="W" class="st0" d="M1815.8,201.3c0,21.4-5.2,6.1-11.4,6.1s-11.4,15.3-11.4-6.1s5.2-6.1,11.4-6.1
+		S1815.8,179.9,1815.8,201.3L1815.8,201.3z"/>
+	<circle class="st6" cx="0" cy="0" r="8.1">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-5.44958093230043s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="X" class="st0" d="M1736.9,955.2c0,34.4-8.4,9.9-18.3,9.9s-18.3,24.5-18.3-9.9s8.4-9.9,18.3-9.9
+		S1736.9,920.7,1736.9,955.2z"/>
+	<circle class="st2" cx="0" cy="0" r="8.2">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-5.453879110235061s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="Y" class="st0" d="M1757.6,294.6c0,31.6-7.7,9.1-16.8,9.1s-16.8,22.5-16.8-9.1s7.7-9.1,16.8-9.1S1757.6,263,1757.6,294.6z
+		"/>
+	<circle class="st5" cx="0" cy="0" r="4.8">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-2.4856583922049555s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="Z" class="st0" d="M855.7,11.4c0,35.2-8.6,10.1-18.7,10.1s-18.7,25.1-18.7-10.1S826.8,1.3,837,1.3S855.7-23.8,855.7,11.4
+		L855.7,11.4z"/>
+	<circle class="st5" cx="0" cy="0" r="5.6">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-10.297131115187394s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="aa" class="st0" d="M1561.6,124.8c0,28.5-7,8.2-15.1,8.2s-15.1,20.3-15.1-8.2s7-8.2,15.1-8.2S1561.6,96.3,1561.6,124.8z"
+		/>
+	<circle class="st4" cx="0" cy="0" r="8.3">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-9.199659616400394s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="ab" class="st0" d="M995,97.4c0,21.8-5.3,6.3-11.6,6.3s-11.6,15.6-11.6-6.3s5.3-6.3,11.6-6.3S995,75.6,995,97.4z"/>
+	<circle class="st6" cx="0" cy="0" r="8.9">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-4.707894278699586s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="ac" class="st0" d="M1549.1,744.1c0,26.6-6.5,7.6-14.1,7.6s-14.1,19-14.1-7.6s6.5-7.6,14.1-7.6S1549.1,717.5,1549.1,744.1
+		z"/>
+	<circle class="st4" cx="0" cy="0" r="4.9">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-10.066803379257776s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="ad" class="st0" d="M1724.5,72.1c0,29.8-7.3,8.6-15.9,8.6s-15.9,21.2-15.9-8.6s7.3-8.6,15.9-8.6S1724.5,42.3,1724.5,72.1z
+		"/>
+	<circle class="st2" cx="0" cy="0" r="7.9">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-8.658074318349438s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="ae" class="st0" d="M1265.8,672.2c0,22.7-5.6,6.5-12.1,6.5s-12.1,16.2-12.1-6.5s5.6-6.5,12.1-6.5
+		S1265.8,649.5,1265.8,672.2z"/>
+	<circle class="st6" cx="0" cy="0" r="8.5">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-10.11152660900457s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="af" class="st0" d="M1853.2,132.5c0,21.6-5.3,6.2-11.5,6.2s-11.5,15.4-11.5-6.2s5.3-6.2,11.5-6.2
+		S1853.2,110.9,1853.2,132.5L1853.2,132.5z"/>
+	<circle class="st5" cx="0" cy="0" r="8.9">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-0.4219174635991679s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="ag" class="st0" d="M1724.5,253.2c0,31.5-7.7,9.1-16.8,9.1c-9.1,0-16.8,22.5-16.8-9.1s7.7-9.1,16.8-9.1
+		C1716.8,244.2,1724.5,221.7,1724.5,253.2z"/>
+	<circle class="st4" cx="0" cy="0" r="6.4">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-0.032772390584394316s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="ah" class="st0" d="M1288.3,145.5c0,31.6-7.7,9.1-16.8,9.1s-16.8,22.5-16.8-9.1s7.7-9.1,16.8-9.1
+		S1288.3,113.9,1288.3,145.5L1288.3,145.5z"/>
+	<circle class="st3" cx="0" cy="0" r="8.2">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-3.5961873600203815s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="ai" class="st0" d="M1775,711.5c0,32.2-7.9,9.2-17.1,9.2s-17.1,22.9-17.1-9.2s7.9-9.2,17.1-9.2S1775,679.3,1775,711.5z"/>
+	<circle class="st2" cx="0" cy="0" r="7">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-9.353265689496757s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="aj" class="st0" d="M1357.5,486.2c0,23.5-5.8,6.8-12.5,6.8c-6.8,0-12.5,16.8-12.5-6.8s5.8-6.8,12.5-6.8
+		C1351.7,479.4,1357.5,462.7,1357.5,486.2L1357.5,486.2z"/>
+	<circle class="st5" cx="0" cy="0" r="6">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-3.1146165729503648s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="ak" class="st0" d="M296.7,1059c0,23.9-5.8,6.9-12.7,6.9s-12.7,17-12.7-6.9s5.8-6.9,12.7-6.9S296.7,1035.1,296.7,1059z"/>
+	<circle class="st1" cx="0" cy="0" r="7.2">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-0.05695785829381807s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="al" class="st0" d="M221.1,871.5c0,19.6-4.8,5.6-10.4,5.6s-10.4,14-10.4-5.6s4.8-5.6,10.4-5.6S221.1,851.9,221.1,871.5z"
+		/>
+	<circle class="st6" cx="0" cy="0" r="8.9">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-3.4206783104464344s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="am" class="st0" d="M255.2,1009.3c0,29.8-7.3,8.5-15.8,8.5s-15.8,21.2-15.8-8.5s7.3-8.5,15.8-8.5
+		S255.2,979.6,255.2,1009.3L255.2,1009.3z"/>
+	<circle class="st3" cx="0" cy="0" r="5.1">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-3.8868545726169335s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="an" class="st0" d="M126.8,849.6c0,19.7-4.8,5.6-10.5,5.6s-10.5,14-10.5-5.6s4.8-5.6,10.5-5.6S126.8,829.9,126.8,849.6z"
+		/>
+	<circle class="st1" cx="0" cy="0" r="6.5">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-1.8680946215939291s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="ao" class="st0" d="M969,909c0,30.6-7.5,8.8-16.3,8.8s-16.3,21.8-16.3-8.8s7.5-8.8,16.3-8.8S969,878.4,969,909z"/>
+	<circle class="st4" cx="0" cy="0" r="8.5">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-7.313429987278197s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="ap" class="st0" d="M1700.3,282c0,29.5-7.2,8.5-15.7,8.5s-15.7,21-15.7-8.5s7.2-8.5,15.7-8.5S1700.3,252.5,1700.3,282z"/>
+	<circle class="st4" cx="0" cy="0" r="8.6">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-4.358822457981781s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="aq" class="st0" d="M78.4,72.1c0,25.6-6.3,7.3-13.6,7.3s-13.6,18.2-13.6-7.3s6.3-7.3,13.6-7.3S78.4,46.5,78.4,72.1z"/>
+	<circle class="st3" cx="0" cy="0" r="7.2">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-5.458002804826011s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="ar" class="st0" d="M1733.7,550.5c0,29.3-7.2,8.4-15.6,8.4s-15.6,20.9-15.6-8.4s7.2-8.4,15.6-8.4
+		S1733.7,521.1,1733.7,550.5L1733.7,550.5z"/>
+	<circle class="st1" cx="0" cy="0" r="7.9">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-4.581672906996708s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="as" class="st0" d="M1151.1,994.8c0,26.5-6.5,7.6-14.1,7.6s-14.1,18.9-14.1-7.6s6.5-7.6,14.1-7.6
+		S1151.1,968.3,1151.1,994.8z"/>
+	<circle class="st3" cx="0" cy="0" r="5.7">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-1.0161094990284625s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="at" class="st0" d="M1191.9,634.6c0,19.9-4.9,5.7-10.6,5.7s-10.6,14.2-10.6-5.7s4.9-5.7,10.6-5.7
+		S1191.9,614.8,1191.9,634.6z"/>
+	<circle class="st3" cx="0" cy="0" r="5.2">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-8.559297750320027s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="au" class="st0" d="M1839.5,554.7c0,28.7-7,8.2-15.3,8.2s-15.3,20.5-15.3-8.2s7-8.2,15.3-8.2S1839.5,526,1839.5,554.7z"/>
+	<circle class="st1" cx="0" cy="0" r="8.6">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-8.042644429924422s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="av" class="st0" d="M1609.8,528.6c0,22.3-5.5,6.4-11.9,6.4s-11.9,15.9-11.9-6.4c0-22.3,5.5-6.4,11.9-6.4
+		S1609.8,506.3,1609.8,528.6L1609.8,528.6z"/>
+	<circle class="st2" cx="0" cy="0" r="5.9">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-4.357016817930108s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="aw" class="st0" d="M1226.8,474.3c0,23.1-5.6,6.6-12.3,6.6s-12.3,16.5-12.3-6.6s5.6-6.6,12.3-6.6
+		S1226.8,451.3,1226.8,474.3z"/>
+	<circle class="st4" cx="0" cy="0" r="7.1">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-8.553142215389238s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="ax" class="st0" d="M562.3,878.7c0,20.5-5,5.9-10.9,5.9s-10.9,14.6-10.9-5.9s5-5.9,10.9-5.9S562.3,858.2,562.3,878.7
+		L562.3,878.7z"/>
+	<circle class="st1" cx="0" cy="0" r="6.5">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-6.408009678210985s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+	<path id="ay" class="st0" d="M1491.1,889.7c0,27.3-6.7,7.8-14.5,7.8s-14.5,19.5-14.5-7.8s6.7-7.8,14.5-7.8
+		S1491.1,862.4,1491.1,889.7z"/>
+	<circle class="st6" cx="0" cy="0" r="8.3">
+	
+		<animateMotion  accumulate="none" additive="replace" begin="-5.9141268825639415s" calcMode="paced" dur="10.53s" fill="remove" repeatCount="indefinite" restart="always">
+		<mpath></mpath>
+	</animateMotion>
+	</circle>
+</g>
+</svg>

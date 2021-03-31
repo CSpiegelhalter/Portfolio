@@ -7,10 +7,10 @@
   width: 40%;
   margin: auto;
   margin-top: 80px;
-background: #cccccc;
+background: #393a3f;
 outline: auto;
-box-shadow:  20px 20px 81px #bebebe,
-             -20px -20px 81px #ffffff;
+/* box-shadow:  20px 20px 81px #bebebe,
+             -20px -20px 81px #ffffff; */
 }
  
   .contact:before {
@@ -30,7 +30,4 @@ box-shadow:  20px 20px 81px #bebebe,
     width: 97%;
     margin: 10px;
   }
-
-
-
 

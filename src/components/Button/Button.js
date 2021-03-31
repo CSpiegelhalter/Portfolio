@@ -5,7 +5,8 @@ import React from 'react';
 const Example = (props) => {
   return (
     <div>
-      <button  className="btn">primary</button>{' '}
+      <a class="btn btn-outline-dark btn-floating m-1" href="https://twitter.com/CurtSpiegelhal1" target="_blank" role="button">
+        Let's Talk</a>
     </div>
   );
 

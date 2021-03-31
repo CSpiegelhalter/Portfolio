@@ -12,9 +12,13 @@ export default function LandingPage() {
                 <div className="container">
                     <p className="eyeCatch">LOOKING FOR A WEB DEVELOPER?</p>
                     <br></br>
-                    <p style={{ fontSize: 20 }}>I am a Full-stack web developer living in Pensacola, Florida. If you are a business looking for a website for a or an employer looking to hire contact me <a href="/contact">here</a>.</p>
-                    <Button />
+                    <p style={{ fontSize: 20, backgroundColor: "#f1f2f3" }}>I am a Jr. Full-stack Web Developer living in Pensacola, Florida. If you are a business looking for a website for a or an employer looking to hire contact me here:</p>
+                    <div style={{ justifyContent: "center" }}>
+                        <Button  />
+                    </div>
+
                 </div>
+
             </div>
         </div>
     )
