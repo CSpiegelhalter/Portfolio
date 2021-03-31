@@ -1,6 +1,6 @@
 {
-  "name": "portfolio4",
-  "homepage": "https://CSpiegelhalter.github.io/Portfolio4",
+  "name": "portfolio",
+  "homepage": "https://CSpiegelhalter.github.io/Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
