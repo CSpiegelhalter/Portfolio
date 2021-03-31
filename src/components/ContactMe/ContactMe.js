@@ -32,6 +32,7 @@ class ContactMe extends Component {
         this.resetForm()
     }
     resetForm() {
+        this.props.toggle()
         this.setState({
             name: '',
             email: '',
