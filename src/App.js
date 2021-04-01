@@ -27,8 +27,7 @@ function App() {
         <ConfirmModal modal={modal} toggle={toggle} />
          <Square />
 
-        <ContactMe toggle={toggle} /> */}
-
+        <ContactMe toggle={toggle} />
         
       </div>
       <Footer />

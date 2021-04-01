@@ -1,64 +1,45 @@
 .titles {
-  text-align: center;
-  color: white;
-  font-family: 'Courier New', monospace;
-  font-weight: bold;
-  text-decoration: underline;
-  margin-top: 100px;
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: 100px;
   }
 
-  .wraps {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-  }
-
-  .techs {
-    height: 8%;
-    width: 8%;
-    /* margin: 150px; */
-
-    
-  }
-
-  .learn {
-    margin: 10px;
-  }
+  
 
   .container {
-    display: flex;
-    /*  */
-    width: 80%;
-    height: 600px;
-    left: 50%;
-    top: 50%;
+    
+    /* width: 80%; */
+    height: 100%;
+    /* left: 50%;
+    top: 50%; */
     margin-left: -20px;
-    margin-top: 20px;
+    margin-top: 200px;
   }
 
   .scene {
-    display: flex;
-    /* justify-content: space-around; */
-    /* flex-wrap: wrap; */
     /* position: relative; */
-    /* width: 500px;
+    
+    width: 500px;
     height: 500px;
-    margin: calc(100px / 2 + 0px); */
+    margin: calc(100px / 2 + 0px);
   }
 
   
   .scene .techs {
-    /* position: absolute; */
-    /* top: 50%;
+    position: absolute;
+    top: 50%;
     left: 50%;
     width: 100px;
-    height: 100px; */
-    /* margin: calc(-100px / 2); */
-
+    height: 100px;
+    margin: calc(-100px / 2);
+    margin-left: 30vw;
     border-radius: 50%;
   }
   
-/* 
+
   .techs.react {
     top: 50px;
     left: 240px;
@@ -106,4 +87,4 @@
   .techs.mongo {
     top: 50px;
     left: 20px;
-  } */
+  }
