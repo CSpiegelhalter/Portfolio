@@ -6,4 +6,18 @@
     text-decoration: underline;
     margin-top: 100px;
   }
-  
+
+  .myParent {
+    display: flex;
+    justify-content: center;
+  }
+
+  .sep {
+    width: 33.333%;
+    margin: 20px;
+    /* flex-direction: column; */
+  }
+
+  .getAway {
+    
+  }

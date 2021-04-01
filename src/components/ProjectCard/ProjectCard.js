@@ -4,29 +4,17 @@ import "./ProjectCard.css"
 
 function ProjectCard(props) {
     return (
-        <div className="glass">
-            <div className="contain">
-                <div className="card">
-                    <div className="face face1">
-                        <div className="content">
-                            <img src={props.props.image} />
+        <div>
+            <h3 style={{ marginTop: "10vh" }}>{props.props.name}</h3>
+        <div className="glass" style={{ backgroundImage: `url(${props.props.image})`, backgroundSize: "100% 100%", backgroundRepeat: "no-repeat" }}>
+            {/* <img src={props.props.image} /> */}
 
+                
+                
+        </div>
+        <p>Info about project</p>
 
-                        </div>
-                    </div>
-                    <div className="face face2">
-                        <div className="content">
-                            <h3>{props.props.name}</h3>
-                            <p>Info about project</p>
-
-                            <a href={props.props.link}>Take a look!</a>
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
+                <a href={props.props.link}>Take a look!</a>
         </div>
     )
 }

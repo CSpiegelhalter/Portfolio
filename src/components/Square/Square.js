@@ -9,20 +9,16 @@ export default function Square() {
     
 
     return (
-        <div>
-            <Row className="sq">
-                <Row>
+        <div className="sq">
+
                 <Projects />
-                </Row>
+
 
                 <Skills />
 
                 
                 
                 
-            </Row>
-
-            
-        </div>
+            </div>
     )
 }

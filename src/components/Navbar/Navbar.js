@@ -1,17 +1,10 @@
-import React, { useState } from 'react';
+import React from 'react';
 import {
-  Collapse,
   Navbar,
-  NavbarToggler,
   NavbarBrand,
   Nav,
   NavItem,
   NavLink,
-  UncontrolledDropdown,
-  DropdownToggle,
-  DropdownMenu,
-  DropdownItem,
-  NavbarText
 } from 'reactstrap';
 import "./Navbar.css"
 
@@ -22,7 +15,7 @@ const MyNav = (props) => {
       color: "white"
     },
     black: {
-      backgroundColor: "#393a3f"
+      backgroundColor: "#459599"
     }
   };
 

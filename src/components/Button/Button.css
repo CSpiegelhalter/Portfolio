@@ -1,3 +1,24 @@
-a {
+.btn {
+  border: 2px solid #459599;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
   
+}
+
+.talk {
+  border-color: #459599;
+  color: black;
+}
+
+.talk:hover {
+  background: #6ce3eb;
+
+}
+
+.centerBtn {
+  display: flex;
+  justify-content: center;
 }

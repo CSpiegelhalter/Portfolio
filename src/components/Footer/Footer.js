@@ -8,7 +8,7 @@ const Footer = (props) => {
     <div>
 <footer style={{ marginTop: "20vh"}} className="bg-light text-center text-lg-start">
 
-  <div class="text-center p-3" style={{ backgroundColor: "#393a3f" }}>
+  <div class="text-center p-3" style={{ backgroundColor: "#459599" }}>
   <a class="btn btn-outline-light btn-floating m-1" href="https://twitter.com/CurtSpiegelhal1" target="_blank" role="button"
         ><i class="fab fa-twitter"></i
       ></a>
