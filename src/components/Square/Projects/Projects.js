@@ -22,7 +22,7 @@ export default function Projects() {
             name: "Budget.io",
             image: budget,
             link: "https://fast-brushlands-99096.herokuapp.com/",
-            description: "Uses "
+            description: "A budget app that allows for online AND offline by utilizing indexDb."
         }
     ]
 

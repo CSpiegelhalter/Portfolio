@@ -105,7 +105,7 @@ class ContactMe extends Component {
                     <h1 className="p-heading1">Let's talk!</h1>
                     <Form onSubmit={this.handleSubmit.bind(this)}>
                         <FormGroup controlId="formBasicEmail">
-                            <Label className="text-muted">Email address*</Label>
+                            <Label className="text">Email address*</Label>
                             <Input
                                 type="email"
                                 name="email"
@@ -117,7 +117,7 @@ class ContactMe extends Component {
                             />
                         </FormGroup>
                         <FormGroup controlId="formBasicPhone">
-                            <Label className="text-muted">Phone number</Label>
+                            <Label className="text">Phone number</Label>
                             <Input
                                 type="tel"
                                 id="phoneNumber"
@@ -131,7 +131,7 @@ class ContactMe extends Component {
                             
                         </FormGroup>
                         <FormGroup controlId="formBasicName">
-                            <Label className="text-muted">Name*</Label>
+                            <Label className="text">Name*</Label>
                             <Input
                                 type="text"
                                 name="name"
@@ -143,7 +143,7 @@ class ContactMe extends Component {
                             />
                         </FormGroup>
                         <FormGroup controlId="formBasicSubject">
-                            <Label className="text-muted">Subject</Label>
+                            <Label className="text">Subject</Label>
                             <Input
                                 type="text"
                                 name="subject"
@@ -154,7 +154,7 @@ class ContactMe extends Component {
                             />
                         </FormGroup>
                         <FormGroup controlId="formBasicMessage">
-                            <Label className="text-muted">Message*</Label>
+                            <Label className="text">Message*</Label>
                             <Input
                                 type="textarea"
                                 name="message"
