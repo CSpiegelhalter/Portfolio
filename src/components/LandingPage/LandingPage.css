@@ -1,9 +1,9 @@
 
 .App {
    width: 100vw;
-   background-image: url("../../images/dots.svg");
+   /* background-image: url("../../images/dots.svg"); */
       /* background-size: cover; */
-      will-change: transform; 
+      /* will-change: transform;  */
       /* z-index: -1; */
   }
    

@@ -4,7 +4,7 @@ import "./ProjectCard.css"
 
 function ProjectCard(props) {
     return (
-        <div>
+        <div className="container-fluid">
             <h3 style={{ marginTop: "10vh" }}>{props.props.name}</h3>
         <div className="glass" style={{ backgroundImage: `url(${props.props.image})`, backgroundSize: "100% 100%", backgroundRepeat: "no-repeat" }}>
             {/* <img src={props.props.image} /> */}

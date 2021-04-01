@@ -3,11 +3,17 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
-    margin-top: 20vh;
+    /* margin-top: 20vh; */
+    width: 50vw;
+    padding: 10px;
     margin: auto;
     border-radius: 16px;
     background: #64a4a4; 
 
+  }
+
+  .text-primary .form-control {
+    width: 95%;
   }
    
     

@@ -38,28 +38,29 @@ export default function Projects() {
     ]
 
     return (
-
+        <div>
             <div className="titles">
                 <h1 >My Projects</h1>
+            </div>
             <div className="myParent">
-            <div className="sep">
-                {projects1.map((e) => {
-                    return (
-                        <div className="getAway">
-                            <ProjectCard props={{ name: e.name, image: e.image, link: e.link }} />
-                        </div>
-                    )
-                })}
-            </div>
-            <div className="sep">
-                {projects2.map((e) => {
-                    return (
-                        <div >
-                            <ProjectCard props={{ name: e.name, image: e.image, link: e.link }} />
-                        </div>
-                    )
-                })}
-            </div>
+                <div className="sep">
+                    {projects1.map((e) => {
+                        return (
+                            <div className="getAway">
+                                <ProjectCard props={{ name: e.name, image: e.image, link: e.link }} />
+                            </div>
+                        )
+                    })}
+                </div>
+                <div className="sep">
+                    {projects2.map((e) => {
+                        return (
+                            <div >
+                                <ProjectCard props={{ name: e.name, image: e.image, link: e.link }} />
+                            </div>
+                        )
+                    })}
+                </div>
 
 
             </div>

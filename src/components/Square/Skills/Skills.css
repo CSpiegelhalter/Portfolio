@@ -88,3 +88,9 @@
     top: 50px;
     left: 20px;
   }
+
+  .allSkills {
+    /* display: flex;
+    flex-direction: column; */
+    margin: auto;
+  }

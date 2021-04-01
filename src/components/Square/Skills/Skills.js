@@ -28,46 +28,52 @@ export default function Skills() {
 
 
     return (
-        <div>
-            <Row className="titles">
-                <Col md="12" >
-                    <h1 >What I'm good at</h1>
-                </Col>
-            </Row>
-            <Row>
-                <div className="parallax" >
-                    <div id="scene" className="scene">
-                        <div className="learn" data-depth="1.6">
-                            <img className="techs react" src={reactIcon} />
-                        </div>
-                        <div  data-depth="1.60">
-                            <img className="techs css" src={CSSicon} />
-                        </div>
-                        <div  data-depth="1.80">
-                            <img className="techs bootstrap" src={bootstrapIcon} />
-                        </div>
-                        <div className="html" data-depth="1.40">
-                            <img className="techs html" src={htmlIcon} />
-                        </div>
-                        <div className="js" data-depth="1.00">
-                            <img className="techs js" src={JsIcon} />
-                        </div>
-                        <div className="mongo" data-depth="1.2">
-                            <img className="techs mongo" src={mongo} />
-                        </div>
-                        <div className="node" data-depth="2">
-                            <img className="techs node" src={node} />
-                        </div>
-                        <div className="sql" data-depth="0.80">
-                            <img className="techs sql" src={mySqlIcon} />
-                        </div>
-                        <div className="python" data-depth="1.00">
-                            <img className="techs python" src={python} />
-                        </div>
+        <div className="allSkills">
+            <div className="titles">
+                <div className="col " >
+                    <div className="row" style={{ justifyContent: "center" }}><h1 >What I'm good at</h1></div>
+                    <div className="row">
+                        <div className="parallax" >
+                            <div id="scene" className="scene">
+                                <div className="learn" data-depth="1.6">
+                                    <img className="techs react" src={reactIcon} />
+                                </div>
+                                <div data-depth="1.60">
+                                    <img className="techs css" src={CSSicon} />
+                                </div>
+                                <div data-depth="1.80">
+                                    <img className="techs bootstrap" src={bootstrapIcon} />
+                                </div>
+                                <div className="html" data-depth="1.40">
+                                    <img className="techs html" src={htmlIcon} />
+                                </div>
+                                <div className="js" data-depth="1.00">
+                                    <img className="techs js" src={JsIcon} />
+                                </div>
+                                <div className="mongo" data-depth="1.2">
+                                    <img className="techs mongo" src={mongo} />
+                                </div>
+                                <div className="node" data-depth="2">
+                                    <img className="techs node" src={node} />
+                                </div>
+                                <div className="sql" data-depth="0.80">
+                                    <img className="techs sql" src={mySqlIcon} />
+                                </div>
+                                <div className="python" data-depth="1.00">
+                                    <img className="techs python" src={python} />
+                                </div>
 
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </Row>
+            </div>
+
+
+
+
+
+
         </div>
     )
 }

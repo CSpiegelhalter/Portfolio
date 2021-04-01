@@ -11,7 +11,7 @@ export default function Square() {
     return (
         <div className="sq">
 
-                <Projects />
+            <Projects />
 
             
             <Skills />

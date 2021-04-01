@@ -19,15 +19,16 @@ function App() {
 
 
   return (
-    <div>
+    <div className="startHere">
       <MyNav />
-      <div className="container">
+      <div className="container-fluid pl-0 pr-0">
         <LandingPage />
 
         <ConfirmModal modal={modal} toggle={toggle} />
          <Square />
 
-        <ContactMe toggle={toggle} />
+        <div className="contactStyle"><ContactMe toggle={toggle} /></div>
+        
         
       </div>
       <Footer />
