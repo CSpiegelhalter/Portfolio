@@ -1,0 +1,14 @@
+
+.contactForm {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 20vh;
+    margin: auto;
+    border-radius: 16px;
+    background: #64a4a4; 
+
+  }
+   
+    
+  

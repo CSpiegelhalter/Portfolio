@@ -1,5 +1,6 @@
 import React, { Component, useEffect } from 'react'
 import * as emailjs from 'emailjs-com'
+import "./ContactMe.css"
 
 import { Button, FormFeedback, Form, FormGroup, Label, Input } from 'reactstrap'
 
@@ -100,7 +101,7 @@ class ContactMe extends Component {
         
         return (
             <>
-                <div>
+                <div className="contactForm">
                     <h1 className="p-heading1">Let's talk!</h1>
                     <Form onSubmit={this.handleSubmit.bind(this)}>
                         <FormGroup controlId="formBasicEmail">

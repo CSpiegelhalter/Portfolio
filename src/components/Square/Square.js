@@ -13,8 +13,10 @@ export default function Square() {
 
                 <Projects />
 
-
-                <Skills />
+            
+            <Skills />
+          
+                
 
                 
                 

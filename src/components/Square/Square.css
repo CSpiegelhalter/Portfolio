@@ -14,3 +14,19 @@
     /* justify-content: center; */
     /* align-items: center; */
 }
+
+
+.contactForm{
+
+    /* display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+     margin-top: 20vh; 
+     margin: auto;
+    
+    border-radius: 16px;
+    background: #64a4a4;  */
+/* box-shadow:  11px 11px 41px #599292,
+             -11px -11px 41px #6fb6b6; */
+}

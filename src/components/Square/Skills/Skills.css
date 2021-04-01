@@ -9,13 +9,13 @@
 
   
 
-  .container {
+  .parallax {
     
     /* width: 80%; */
     height: 100%;
     /* left: 50%;
     top: 50%; */
-    margin-left: -20px;
+    /* margin-left: -40px; */
     margin-top: 200px;
   }
 
@@ -35,7 +35,7 @@
     width: 100px;
     height: 100px;
     margin: calc(-100px / 2);
-    margin-left: 30vw;
+    /* margin-left: 30vw; */
     border-radius: 50%;
   }
   

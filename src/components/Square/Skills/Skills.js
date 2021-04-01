@@ -35,7 +35,7 @@ export default function Skills() {
                 </Col>
             </Row>
             <Row>
-                <div id="container" className="container" >
+                <div className="parallax" >
                     <div id="scene" className="scene">
                         <div className="learn" data-depth="1.6">
                             <img className="techs react" src={reactIcon} />
