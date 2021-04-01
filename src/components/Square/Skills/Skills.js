@@ -28,7 +28,7 @@ export default function Skills() {
 
 
     return (
-        <div className="allSkills">
+        <div id="skills" className="allSkills">
             <div className="titles">
                 <div className="col " >
                     <div className="row" style={{ justifyContent: "center" }}><h1 >What I'm good at</h1></div>

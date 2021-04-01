@@ -28,13 +28,13 @@ const MyNav = (props) => {
 
           <Nav className="ml-auto" >
             <NavItem>
-              <NavLink style={styles.white} href="/components/">My Projects</NavLink>
+              <NavLink style={styles.white} href="#projects">My Projects</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink style={styles.white} href="/components/">Work</NavLink>
+              <NavLink style={styles.white} href="#skills">Skills</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink style={styles.white} href="/">Contact</NavLink>
+              <NavLink style={styles.white} href="#contact">Contact</NavLink>
             </NavItem>
           </Nav>
         </div>

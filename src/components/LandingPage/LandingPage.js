@@ -15,7 +15,8 @@ export default function LandingPage() {
                         
 
             </div>
-            <Button  />
+            <a href="#contact"><Button  /></a>
+            
         </div>
     )
 }

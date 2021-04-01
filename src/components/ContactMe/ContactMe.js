@@ -101,7 +101,7 @@ class ContactMe extends Component {
         
         return (
             <>
-                <div className="contactForm">
+                <div id="contact" className="contactForm">
                     <h1 className="p-heading1">Let's talk!</h1>
                     <Form onSubmit={this.handleSubmit.bind(this)}>
                         <FormGroup controlId="formBasicEmail">

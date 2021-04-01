@@ -1,10 +1,7 @@
 
 .App {
    width: 100vw;
-   /* background-image: url("../../images/dots.svg"); */
-      /* background-size: cover; */
-      /* will-change: transform;  */
-      /* z-index: -1; */
+   margin-top: 21vh;
   }
    
     .App:before {
@@ -19,6 +16,7 @@
   
   
   .wrapper{
+    
     width: 60%;
     height: 100%;
     margin: auto;

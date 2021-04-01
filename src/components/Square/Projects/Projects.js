@@ -14,13 +14,15 @@ export default function Projects() {
         {
             name: "Donde",
             image: donde,
-            link: "https://shielded-woodland-30004.herokuapp.com/"
+            link: "https://shielded-woodland-30004.herokuapp.com/",
+            description: "Full-Stack MERN app that helps plan your next vacation! With a Mongo back-end and a React front-end, this app uses full CRUD operations to quickly and efficiently make the most out of your trip."
         }
         ,
         {
             name: "Budget.io",
             image: budget,
-            link: "https://fast-brushlands-99096.herokuapp.com/"
+            link: "https://fast-brushlands-99096.herokuapp.com/",
+            description: "Uses "
         }
     ]
 
@@ -28,18 +30,20 @@ export default function Projects() {
         {
             name: "Fitness Tracker",
             image: fitness,
-            link: "https://ancient-journey-14742.herokuapp.com"
+            link: "https://ancient-journey-14742.herokuapp.com",
+            description: ""
         },
         {
             name: "Note Taker",
             image: notes,
-            link: "https://young-badlands-54377.herokuapp.com/"
+            link: "https://young-badlands-54377.herokuapp.com/",
+            description: ""
         }
     ]
 
     return (
         <div>
-            <div className="titles">
+            <div id="projects" className="titles">
                 <h1 >My Projects</h1>
             </div>
             <div className="myParent">
